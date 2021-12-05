@@ -21,7 +21,7 @@ A web-based platform for attendees of an event to access the photos taken by pho
 `node album2.js`
 `node like.js`
 
-### Screenshoot
+### Screenshot
 | ![demo1.png](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo1.png?raw=true) | 
 |:--:| 
 | *Dashboard* |
