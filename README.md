@@ -25,6 +25,7 @@ A web-based platform for attendees of an event to access the photos taken by pho
 | ![demo1.png](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo1.png?raw=true) | 
 |:--:| 
 | *Dashboard* |
+
 | ![demo2.png](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo2.png?raw=true) | 
 |:--:| 
 | *Photo Stream* |
