@@ -1,5 +1,6 @@
 # Associations Now
 ![alt text](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo1.png?raw=true)
+![alt text](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo2.png?raw=true)
 ### Introduction
 A web-based platform for attendees of an event to access the photos taken by photographers in real-time by simply scanning a QR code.
 
