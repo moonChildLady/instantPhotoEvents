@@ -21,6 +21,7 @@ A web-based platform for attendees of an event to access the photos taken by pho
 ### Usage
 #### node.js
 `node album2.js`
+`node like.js`
 
 ### Follow up/Improvment
 In this project, the operator upload the photos manually on the platform. In the feature, the photographers take the photos and the photos will automatically upload to the platform.
