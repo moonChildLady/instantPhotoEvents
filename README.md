@@ -11,9 +11,9 @@ A web-based platform for attendees of an event to access the photos taken by pho
 5. Multiple albums on the same event
 
 ### Reqiurement
-*PHP version 5.7 or above (Yii freamwork)
-*MySQL 5.6 or above
-*nodejs 
+* PHP version 5.7 or above (Yii freamwork)
+* MySQL 5.6 or above
+* nodejs 
 1. websocket.io (for real-time process)
 2. chokidar (for trigger folder changing callback)
 
