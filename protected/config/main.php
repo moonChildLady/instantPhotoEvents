@@ -75,10 +75,10 @@ return array(
 */
 		// uncomment the following to use a MySQL database
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=FYPPROJECT',
+			'connectionString' => 'mysql:host=localhost;dbname=xxxx',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => '23602312',
+			'password' => '',
 			'charset' => 'utf8',
 		),
 		
@@ -108,7 +108,7 @@ return array(
 	'params'=>array(
 		// this is used in contact page
 		'adminEmail'=>'webmaster@example.com',
-		'homeDir'=>'/home/www/pad/album/',
-		'bannerDir'=>'/home/www/fyp/images/banner',
+		'homeDir'=>'/home/www/xxxx/album/',
+		'bannerDir'=>'/home/www/xxxx/images/banner',
 	),
 );

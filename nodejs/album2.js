@@ -11,16 +11,16 @@ var io = require('socket.io').listen(3000)
 var db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-	password: '23602312',
-    database: 'FYPPROJECT',
+	password: '',
+    database: 'xxxx',
     insecureAuth: true
 })
 // do this once
 var pool = mysql.createPool( {
     host: 'localhost',
     user: 'root',
-	password: '23602312',
-    database: 'FYPPROJECT',
+	password: '',
+    database: 'xxxx',
     insecureAuth: true
 } );
 
