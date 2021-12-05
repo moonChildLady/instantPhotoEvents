@@ -1,6 +1,4 @@
 # Associations Now
-![alt text](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo1.png?raw=true)
-![alt text](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo2.png?raw=true)
 ### Introduction
 A web-based platform for attendees of an event to access the photos taken by photographers in real-time by simply scanning a QR code.
 
@@ -22,6 +20,15 @@ A web-based platform for attendees of an event to access the photos taken by pho
 #### node.js
 `node album2.js`
 `node like.js`
+
+### Screenshoot
+| ![demo1.png](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo1.png?raw=true) | 
+|:--:| 
+| *Dashboard* |
+| ![demo2.png](https://github.com/moonChildLady/instantPhotoEvents/blob/main/images/demo2.png?raw=true) | 
+|:--:| 
+| *Photo Stream* |
+
 
 ### Follow up/Improvment
 In this project, the operator upload the photos manually on the platform. In the feature, the photographers take the photos and the photos will automatically upload to the platform.
